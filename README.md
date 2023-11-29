@@ -1,5 +1,6 @@
 # Find the GCD of two numbers
-
+NAME: SHYAM S
+REF.NO: 23012478
 ## AIM:
 To write a program to find the GCD of two numbers using function.
 
